@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="G Seris Drama" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",G Seris Drama
+https://vods2.aynascope.net/gseriesDrama/playlist.m3u8|referer=https://web.aynaott.com
+#EXTINF:-1 tvg-name="Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",Tv
+https://tvsen6.aynascope.net/nexustv/playlist.m3u8|referer=https://web.aynaott.com
+#EXTINF:-1 tvg-name="Test" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",Test
+https://tvsen5.aynascope.net/banglavision/playlist.m3u8|referer=https://web.aynaott.com
+#EXTINF:-1 tvg-name="Tes" group-title="Test",Tes
+https://tvsen5.aynascope.net/ntvbd/tracks-v1a1/playlist.m3u8|referer=https://web.aynaott.com
