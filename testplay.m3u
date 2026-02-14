@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="G Seris Drama" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",G Seris Drama
-https://vods2.aynascope.net/gseriesDrama/playlist.m3u8|referer=https://web.aynaott.com
-#EXTINF:-1 tvg-name="Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",Tv
-https://tvsen6.aynascope.net/nexustv/playlist.m3u8|referer=https://web.aynaott.com
-#EXTINF:-1 tvg-name="Test" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="Test",Test
-https://tvsen5.aynascope.net/banglavision/playlist.m3u8|referer=https://web.aynaott.com
-#EXTINF:-1 tvg-name="Tes" group-title="Test",Tes
-https://tvsen5.aynascope.net/ntvbd/tracks-v1a1/playlist.m3u8|referer=https://web.aynaott.com
+#EXTINF:-1 tvg-name="NEXUS TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="TOFFEE",NEXUS TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nexus_tv_576/nexus_tv_576.m3u8?bitrate=1000000&channel=nexus_tv_576&gp_id=
+#EXTINF:-1 tvg-name="MOVIE BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="TOFFEE",MOVIE BANGLA
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/movie_bangla_576/movie_bangla_576.m3u8?bitrate=1000000&channel=movie_bangla_576&gp_id=
+#EXTINF:-1 tvg-name="MOHONA TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="TOFFEE",MOHONA TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mohona_tv_576/playlist.m3u8
