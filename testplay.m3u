@@ -5,5 +5,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/nexus_tv_576/nexus_tv_576.m3
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/movie_bangla_576/movie_bangla_576.m3u8?bitrate=1000000&channel=movie_bangla_576&gp_id=
 #EXTINF:-1 tvg-name="MOHONA TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png" group-title="TOFFEE",MOHONA TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/mohona_tv_576/playlist.m3u8
-#EXTM3U
+#EXTINF:-1 group-title="NEW BDIX" BDIX
 https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/New_Bdix.m3u
